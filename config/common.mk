@@ -121,6 +121,10 @@ PRODUCT_SYSTEM_EXT_PROPERTIES += \
     ro.sf.blurs_are_expensive=1 \
     ro.surface_flinger.supports_background_blur=1
 
+# Disable async MTE on system_server
+PRODUCT_SYSTEM_EXT_PROPERTIES += \
+    arm64.memtag.process.system_server=off
+
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
