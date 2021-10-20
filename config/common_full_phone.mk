@@ -15,5 +15,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     net.tethering.noprovisioning=true
 
-# Inherit full common PixelExperience stuff
+# Inherit full common Project Elixir stuff
 $(call inherit-product, vendor/aosp/config/common_full.mk)

@@ -2,7 +2,7 @@
 ifeq ($(BUILD_FINGERPRINT),)
 BUILD_NUMBER_CUSTOM := $(shell date -u +%H%M)
 CUSTOM_DEVICE ?= $(TARGET_DEVICE)
-ifneq ($(filter OFFICIAL,$(CUSTOM_BUILD_TYPE)),)
+ifneq ($(filter OFFICIAL,$(ELIXIR_BUILD_TYPE)),)
 BUILD_SIGNATURE_KEYS := release-keys
 else
 BUILD_SIGNATURE_KEYS := test-keys
@@ -18,20 +18,20 @@ ADDITIONAL_SYSTEM_PROPERTIES  += \
     persist.sys.recovery_update=true
 endif
 
-# Compress AOSP recovery, for our infra
-ifeq ($(TARGET_USES_TAR_COMPRESSED_RECOVERY),true)
-ADDITIONAL_SYSTEM_PROPERTIES  += \
-    org.pixelexperience.tar_compressed_recovery=true
-endif
-
-# Custom security patch
-CUSTOM_SECURITY_PATCH := 2022-08-05
-
 # Versioning props
 ADDITIONAL_SYSTEM_PROPERTIES  += \
-    org.pixelexperience.version=$(CUSTOM_VERSION_PROP) \
-    org.pixelexperience.version.display=$(CUSTOM_VERSION) \
-    org.pixelexperience.build_date=$(CUSTOM_BUILD_DATE) \
-    org.pixelexperience.build_date_utc=$(CUSTOM_BUILD_DATE_UTC) \
-    org.pixelexperience.build_type=$(CUSTOM_BUILD_TYPE) \
-    org.pixelexperience.build_security_patch=$(CUSTOM_SECURITY_PATCH)
+    org.elixir.version=$(ELIXIR_BASE_VERSION) \
+    org.elixir.version.display=$(CUSTOM_VERSION) \
+    org.elixir.build_date=$(CUSTOM_BUILD_DATE) \
+    org.elixir.build_date_utc=$(CUSTOM_BUILD_DATE_UTC) \
+    org.elixir.codename=$(ELIXIR_CODENAME) \
+    ro.elixir.maintainer=$(ELIXIR_MAINTAINER) \
+    ro.elixir.ota_device=$(TARGET_DEVICE)
+
+ifdef ELIXIR_BUILD_TYPE 
+   $(warning "PROJECT ELIXIR: This is a verified as official build. Goodluck and wish have zero bugs.")
+ADDITIONAL_SYSTEM_PROPERTIES += \
+   org.elixir.build_type=$(ELIXIR_BUILD_TYPE)
+else
+   $(warning "PROJECT ELIXIR: You are not an OFFICIAL Maintainer, building as unofficial build.")
+endif
