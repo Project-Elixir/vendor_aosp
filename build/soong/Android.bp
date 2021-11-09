@@ -56,7 +56,10 @@ soong_config_module_type {
     module_type: "cc_defaults",
     config_namespace: "customGlobalVars",
     bool_variables: ["camera_needs_client_info"],
-    properties: ["cppflags"],
+    properties: [
+        "cppflags",
+        "shared_libs",
+    ],
 }
 
 camera_needs_client_info {
@@ -64,6 +67,7 @@ camera_needs_client_info {
     soong_config_variables: {
         camera_needs_client_info: {
             cppflags: ["-DCAMERA_NEEDS_CLIENT_INFO"],
+            shared_libs: ["//hardware/oneplus:vendor.oneplus.hardware.camera@1.0"],
         },
     },
 }
