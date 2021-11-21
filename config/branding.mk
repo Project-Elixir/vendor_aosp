@@ -1,7 +1,7 @@
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 # Elixir Props
-Elixir_BASE_VERSION = 1.0
+Elixir_BASE_VERSION = 1.1
 Elixir_CODENAME := Extremis
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
