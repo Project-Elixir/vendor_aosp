@@ -23,6 +23,20 @@ bacon: $(INTERNAL_OTA_PACKAGE_TARGET)
 	$(hide) ln -f $(INTERNAL_OTA_PACKAGE_TARGET) $(CUSTOM_TARGET_PACKAGE)
 	$(hide) $(SHA256) $(CUSTOM_TARGET_PACKAGE) | sed "s|$(PRODUCT_OUT)/||" > $(CUSTOM_TARGET_PACKAGE).sha256sum
 	@echo -e ${CL_CYN}""${CL_CYN}
+	@echo -e ${CL_CYN}"      ____            _           _        "${CL_CYN}
+	@echo -e ${CL_CYN}"     |  _ \ _ __ ___ (_) ___  ___| |_      "${CL_CYN}
+	@echo -e ${CL_CYN}"     | |_) | '__/ _ \| |/ _ \/ __| __|     "${CL_CYN}
+	@echo -e ${CL_CYN}"     |  __/| | | (_) | |  __/ (__| |_      "${CL_CYN}
+	@echo -e ${CL_CYN}"     |_|   |_|  \___// |\___|\___|\__|     "${CL_CYN}
+	@echo -e ${CL_CYN}"     |_|            |_/                    "${CL_CYN}
+	@echo -e ${CL_CYN}"                                           "${CL_CYN}
+	@echo -e ${CL_CYN}"            _____ _ _     _                "${CL_CYN}
+	@echo -e ${CL_CYN}"           | ____| (_)_ _(_)_ __           "${CL_CYN}
+	@echo -e ${CL_CYN}"           |  _| | | \ \/ / | '__|         "${CL_CYN}
+	@echo -e ${CL_CYN}"           | |___| | |>  <| | |            "${CL_CYN}
+	@echo -e ${CL_CYN}"           |_____|_|_/_/\_\_|_|            "${CL_CYN}
+	@echo -e ${CL_CYN}"                                           "${CL_CYN}    
+	@echo -e ${CL_CYN}""${CL_CYN}
 	@echo -e ${CL_CYN}"===========-Package Completed-==========="${CL_RST}
 	@echo -e ${CL_BLD}${CL_YLW}"Zip: "${CL_YLW} $(CUSTOM_TARGET_PACKAGE)${CL_RST}
 	@echo -e ${CL_BLD}${CL_YLW}"MD5: "${CL_YLW}" `cat $(CUSTOM_TARGET_PACKAGE).md5sum | cut -d ' ' -f 1` "${CL_RST}
