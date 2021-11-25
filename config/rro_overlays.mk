@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     FilesOverlay \
     PixelDocumentsUIGoogleOverlay \
     BuiltInPrintServiceOverlay \
+    NavigationBarModeGesturalOverlayFS \
     GooglePermissionControllerOverlay \
     PixelConfigOverlayCommon \
     TeleServiceOverlay \
