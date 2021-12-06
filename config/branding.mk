@@ -1,8 +1,8 @@
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 # Elixir Props
-Elixir_BASE_VERSION = 1.1
-Elixir_CODENAME := Extremis
+Elixir_BASE_VERSION = 1.2
+Elixir_CODENAME := Avalanche
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
