@@ -84,6 +84,7 @@ PRODUCT_PACKAGES += \
 
 # Config
 PRODUCT_PACKAGES += \
+    RepainterServicePriv \
     SimpleDeviceConfig
 
 # Storage manager
