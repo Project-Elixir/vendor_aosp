@@ -202,10 +202,6 @@ TARGET_INCLUDE_LIVE_WALLPAPERS ?= true
 TARGET_SUPPORTS_QUICK_TAP ?= false
 TARGET_SUPPORTS_CALL_RECORDING ?= true
 
-# Pixel sysconfig from Pixel XL (Photos)
-PRODUCT_COPY_FILES += \
-    vendor/aosp/prebuilt/common/etc/sysconfig/pixel_2016_exclusive.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_2016_exclusive.xml
-
 # Face Unlock
 #TARGET_FACE_UNLOCK_SUPPORTED ?= true
 #ifeq ($(TARGET_FACE_UNLOCK_SUPPORTED),true)
