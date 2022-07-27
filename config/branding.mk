@@ -1,7 +1,7 @@
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 # Elixir Props
-Elixir_BASE_VERSION = 1.9
+Elixir_BASE_VERSION = 2.0
 Elixir_CODENAME := Avalanche
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
