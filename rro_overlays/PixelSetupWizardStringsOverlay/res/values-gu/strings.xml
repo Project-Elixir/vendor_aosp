@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">આસપાસ થતી હલનચલન જાણવા માટે Android Motion Sense નો ઉપયોગ કરે છે. તે તમારા કૅમેરા, માઇક અથવા સ્થાનનો ઉપયોગ કરતું નથી.</string>
+     <string name="bc_welcome_message">Androidમાં આપનું સ્વાગત છે</string>
+     <string name="deferred_setup_wizard_title">Android સેટ કરવાનું સમાપ્ત કરો</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{તમારા Androidને કસ્ટમાઇઝ કરો}TABLET{તમારા Android ટૅબ્લેટને કસ્ટમાઇઝ કરો}other{તમારું ડિવાઇસ કસ્ટમાઇઝ કરો}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{તમારા Androidનો વધુને વધુ લાભ મેળવો}TABLET{તમારા Android ટૅબ્લેટનો વધુને વધુ લાભ મેળવો}other{તમારા ડિવાઇસનો વધુને વધુ લાભ મેળવો}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, તમારા Androidનો વધુને વધુ લાભ મેળવો}TABLET{{0}, તમારા Android ટૅબ્લેટનો વધુને વધુ લાભ મેળવો}other{{0}, તમારા ડિવાઇસનો વધુને વધુ લાભ મેળવો}}</string>
+     <string name="setup_wizard_title">Android સેટઅપ</string>
+     <string name="smart_always_on_display_opt_in_info_text">આસપાસ થતી હલનચલન જાણવા માટે Android Motion Sense નો ઉપયોગ કરે છે. તે તમારા કૅમેરા, માઇક અથવા સ્થાનનો ઉપયોગ કરતું નથી.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{આપના Androidમાં આપનું સ્વાગત છે}TABLET{આપના ટૅબ્લેટમાં આપનું સ્વાગત છે}other{આપના ડિવાઇસમાં આપનું સ્વાગત છે}}</string>
+</resources>

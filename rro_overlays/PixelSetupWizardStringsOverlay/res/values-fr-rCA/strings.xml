@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">"Le Android utilise Motion Sense afin de capter les mouvements à proximité. Il ne fait pas appel à l'appareil photo, au microphone ni à la localisation."</string>
+     <string name="bc_welcome_message">Découvrez votre nouveau Android</string>
+     <string name="deferred_setup_wizard_title">Terminer la configuration du Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Personnaliser votre Android}TABLET{Personnaliser votre tablette Android}other{Personnaliser votre appareil}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Profitez pleinement de votre Android}TABLET{Profitez pleinement de la tablette Android}other{Profitez pleinement de votre appareil}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, profitez pleinement de votre Android}TABLET{{0}, profitez pleinement de la tablette Android}other{{0}, profitez pleinement de votre appareil}}</string>
+     <string name="setup_wizard_title">Configuration du Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">"Le Android utilise Motion Sense afin de capter les mouvements à proximité. Il ne fait pas appel à l'appareil photo, au microphone ni à la localisation."</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Bienvenue sur votre Android}TABLET{Bienvenue sur votre tablette Android}other{Bienvenue sur votre appareil}}</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">जवळपासच्या हालचाली डिटेक्ट करण्यासाठी Android Motion Sense वापरताे. ते तुमचा कॅमेरा, माइक किंवा स्थान वापरत नाही.</string>
+     <string name="bc_welcome_message">Android वर तुमचे स्वागत आहे</string>
+     <string name="deferred_setup_wizard_title">Android चे सेटअप पूर्ण करा</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{तुमचे Android कस्टमाइझ करा}TABLET{तुमचे Android टॅबलेट कस्टमाइझ करा}other{तुमचे डिव्हाइस कस्टमाइझ करा}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{तुमच्या Android चा पुरेपूर वापर करा}TABLET{तुमच्या Android टॅबलेट चा पुरेपूर वापर करा}other{तुमच्या डिव्हाइसचा पुरेपूर वापर करा}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, तुमच्या Android चा पुरेपूर वापर करा}TABLET{{0}, तुमच्या Android टॅबलेट चा पुरेपुर वापर करा}other{{0}, तुमच्या डिव्हाइसचा पुरेपूर वापर करा}}</string>
+     <string name="setup_wizard_title">Android सेटअप</string>
+     <string name="smart_always_on_display_opt_in_info_text">जवळपासच्या हालचाली डिटेक्ट करण्यासाठी Android Motion Sense वापरताे. ते तुमचा कॅमेरा, माइक किंवा स्थान वापरत नाही.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{तुमच्या Android वर स्वागत आहे}TABLET{तुमच्या Android टॅबलेट वर स्वागत आहे}other{तुमच्या डिव्हाइसवर स्वागत आहे}}</string>
+</resources>

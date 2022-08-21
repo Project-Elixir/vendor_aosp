@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android uporablja Motion Sense, da zazna premikanje v bližini. Ne uporablja fotoaparata, mikrofona ali lokacije.</string>
+     <string name="bc_welcome_message">Pozdravljeni v telefonu Android</string>
+     <string name="deferred_setup_wizard_title">Dokončajte nastavitev telefona Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Prilagajanje telefona Android}TABLET{Prilagajanje tablice Android}other{Prilagajanje naprave}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Kar najbolje izkoristite telefon Android}TABLET{Kar najbolje izkoristite tablico Android}other{Kar najbolje izkoristite napravo}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, kar najbolje izkoristite telefon Android}TABLET{{0}, kar najbolje izkoristite tablico Android}other{{0}, kar najbolje izkoristite napravo}}</string>
+     <string name="setup_wizard_title">Nastavitev telefona Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android uporablja Motion Sense, da zazna premikanje v bližini. Ne uporablja fotoaparata, mikrofona ali lokacije.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Pozdravljeni v telefonu Android}TABLET{Pozdravljeni v tabličnem računalniku Android}other{Pozdravljeni v napravi}}</string>
+</resources>

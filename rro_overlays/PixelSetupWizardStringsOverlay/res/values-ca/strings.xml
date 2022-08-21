@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android utilitza Motion Sense per detectar moviments pròxims. No fa servir la càmera, el micròfon ni la ubicació.</string>
+     <string name="bc_welcome_message">Et donem la benvinguda al teu Android</string>
+     <string name="deferred_setup_wizard_title">Acaba de configurar el telèfon Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Personalitza el teu Android}TABLET{Personalitza la teva tauleta Android}other{Personalitza el teu dispositiu}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Aprofita al màxim el teu Android}TABLET{Aprofita al màxim la teva tauleta Android}other{Aprofita al màxim el teu dispositiu}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, aprofita al màxim el teu Android}TABLET{{0}, aprofita al màxim la teva tauleta Android}other{{0}, aprofita al màxim el teu dispositiu}}</string>
+     <string name="setup_wizard_title">Configuració de Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android utilitza Motion Sense per detectar moviments pròxims. No fa servir la càmera, el micròfon ni la ubicació.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Et donem la benvinguda al teu Android}TABLET{Et donem la benvinguda a la teva tauleta Android}other{Et donem la benvinguda al teu dispositiu}}</string>
+</resources>

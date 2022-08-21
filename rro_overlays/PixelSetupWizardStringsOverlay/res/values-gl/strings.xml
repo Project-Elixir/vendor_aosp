@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">O Android utiliza Motion Sense para captar os xestos que se fagan preto. Non utiliza a cámara, o micrófono nin a localización.</string>
+     <string name="bc_welcome_message">Dámosche a benvida ao teu Android</string>
+     <string name="deferred_setup_wizard_title">Finalizar a configuración de Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Personaliza o Android}TABLET{Personaliza a Android Tablet}other{Personaliza o dispositivo}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Saca o máximo partido do Android}TABLET{Saca o máximo partido da Android Tablet}other{Saca o máximo partido do dispositivo}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, saca o máximo partido do Android}TABLET{{0}, saca o máximo partido da Android Tablet}other{{0}, saca o máximo partido do dispositivo}}</string>
+     <string name="setup_wizard_title">Configuración de Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">O Android utiliza Motion Sense para captar os xestos que se fagan preto. Non utiliza a cámara, o micrófono nin a localización.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Dámosche a benvida ao teu Android}TABLET{Dámosche a benvida á túa Android Tablet}other{Dámosche a benvida ao teu dispositivo}}</string>
+</resources>

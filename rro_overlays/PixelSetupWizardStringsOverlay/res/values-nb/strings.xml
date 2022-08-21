@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android bruker Motion Sense til å oppdage bevegelser i nærheten. Funksjonen bruker ikke kamera, mikrofon eller posisjon.</string>
+     <string name="bc_welcome_message">Velkommen til Android</string>
+     <string name="deferred_setup_wizard_title">Fullfør konfigureringen av Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Tilpass Android-telefonen}TABLET{Tilpass Android-nettbrettet}other{Tilpass enheten}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Få mest mulig ut av Android-telefonen}TABLET{Få mest mulig ut av Android-nettbrettet}other{Få mest mulig ut av enheten}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, få mest mulig ut av Android-telefonen}TABLET{{0}, få mest mulig ut av Android-nettbrettet}other{{0}, få mest mulig ut av enheten}}</string>
+     <string name="setup_wizard_title">Android-konfigurering</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android bruker Motion Sense til å oppdage bevegelser i nærheten. Funksjonen bruker ikke kamera, mikrofon eller posisjon.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Velkommen til Android}TABLET{Velkommen til Android-nettbrettet}other{Velkommen til enheten}}</string>
+</resources>

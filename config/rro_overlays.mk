@@ -29,3 +29,15 @@ PRODUCT_PACKAGES += \
     PixelFwResOverlay \
     GoogleConfigOverlay \
     SystemUIGoogleOverlay
+
+# Lineage RRO overlay packages
+PRODUCT_PACKAGES += \
+    LineageConfigOverlay
+
+# Pixel RRO overlay packages
+PRODUCT_PACKAGES += \
+    GoogleConfigOverlay \
+    GoogleSettingsOverlay \
+    PixelConfigOverlayWallpaper \
+    PixelSetupWizardStringsOverlay \
+    SystemUIGXOverlay

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Gumagamit ng Motion Sense ang Android para mag-detect ng paggalaw sa malapit. Hindi nito ginagamit ang iyong camera, mikropono, o lokasyon.</string>
+     <string name="bc_welcome_message">Welcome sa iyong Android</string>
+     <string name="deferred_setup_wizard_title">Tapusin ang pag-set up ng Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{I-customize ang iyong Android}TABLET{I-customize ang iyong Android Tablet}other{I-customize ang iyong device}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Sulitin ang iyong Android}TABLET{Sulitin ang iyong Android Tablet}other{Sulitin ang iyong device}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, sulitin ang iyong Android}TABLET{{0}, sulitin ang iyong Android Tablet}other{{0}, sulitin ang iyong device}}</string>
+     <string name="setup_wizard_title">Setup ng Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Gumagamit ng Motion Sense ang Android para mag-detect ng paggalaw sa malapit. Hindi nito ginagamit ang iyong camera, mikropono, o lokasyon.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Welcome sa iyong Android}TABLET{Welcome sa iyong Android Tablet}other{Welcome sa iyong device}}</string>
+</resources>

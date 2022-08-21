@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">‏Android از Motion Sense برای تشخیص حرکت‌های اطراف دستگاه استفاده می‌کند. این ویژگی از دوربین، میکروفون یا مکان شما استفاده نمی‌کند.</string>
+     <string name="bc_welcome_message">‏به Android خوش‌آمدید</string>
+     <string name="deferred_setup_wizard_title">‏راه‌اندازی Android را تمام کنید</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{‏Android خود را سفارشی کنید}TABLET{‏رایانه لوحی Android خود را سفارشی کنید}other{دستگاهتان را سفارشی کنید}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{‏از Android خود نهایت استفاده را ببرید}TABLET{‏از رایانه لوحی Android خود نهایت استفاده را ببرید}other{از دستگاه خود نهایت استفاده را ببرید}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{‏{0}، از Android خود نهایت استفاده را ببرید}TABLET{‏{0}، از رایانه لوحی Android خود نهایت استفاده را ببرید}other{{0}، از دستگاه خود نهایت استفاده را ببرید}}</string>
+     <string name="setup_wizard_title">‏راه‌اندازی Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">‏Android از Motion Sense برای تشخیص حرکت‌های اطراف دستگاه استفاده می‌کند. این ویژگی از دوربین، میکروفون یا مکان شما استفاده نمی‌کند.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{‏به Android خوش آمدید}TABLET{‏به رایانه لوحی Android خود خوش آمدید}other{به دستگاه خود خوش آمدید}}</string>
+</resources>

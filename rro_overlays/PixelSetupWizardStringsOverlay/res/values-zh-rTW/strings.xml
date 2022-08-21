@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android 會使用 Motion Sense 偵測周遭的動作。這項功能不會使用相機、麥克風或位置資訊。</string>
+     <string name="bc_welcome_message">歡迎使用 Android</string>
+     <string name="deferred_setup_wizard_title">完成 Android 設定程序</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{根據自己的需求設定 Android}TABLET{根據自己的需求設定 Android 平板電腦}other{根據自己的需求設定裝置}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{充分發揮 Android 的功用}TABLET{充分發揮 Android 平板電腦的功用}other{充分發揮裝置的功用}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}，你可以讓 Android 充分發揮功用}TABLET{{0}，你可以讓 Android 平板電腦充分發揮功用}other{{0}，你可以讓裝置充分發揮功用}}</string>
+     <string name="setup_wizard_title">Android 設定</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android 會使用 Motion Sense 偵測周遭的動作。這項功能不會使用相機、麥克風或位置資訊。</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{歡迎使用 Android}TABLET{歡迎使用 Android 平板電腦}other{歡迎使用裝置}}</string>
+</resources>

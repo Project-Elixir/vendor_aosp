@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android користи Motion Sense за откривање покрета у близини. Не користи камеру, микрофон нити локацију.</string>
+     <string name="bc_welcome_message">Добро дошли на Android</string>
+     <string name="deferred_setup_wizard_title">Довршите подешавање Android-а</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Прилагодите Android}TABLET{Прилагодите Android таблет}other{Прилагодите уређај}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Искористите Android на најбољи начин}TABLET{Искористите Android таблет на најбољи начин}other{Искористите уређај на најбољи начин}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, искористите Android на најбољи начин}TABLET{{0}, искористите Android таблет на најбољи начин}other{{0}, искористите уређај на најбољи начин}}</string>
+     <string name="setup_wizard_title">Подешавање Android-а</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android користи Motion Sense за откривање покрета у близини. Не користи камеру, микрофон нити локацију.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Добро дошли на Android}TABLET{Добро дошли на Android таблет}other{Добро дошли на уређај}}</string>
+</resources>

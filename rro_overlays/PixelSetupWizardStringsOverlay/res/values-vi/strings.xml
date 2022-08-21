@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android dùng tính năng Motion Sense để phát hiện chuyển động ở gần. Tính năng này không sử dụng máy ảnh, micrô hay thông tin vị trí.</string>
+     <string name="bc_welcome_message">Chào mừng bạn đến với Android</string>
+     <string name="deferred_setup_wizard_title">Hoàn tất việc thiết lập Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Tùy chỉnh chiếc Android của bạn}TABLET{Tùy chỉnh Máy tính bảng Android của bạn}other{Tùy chỉnh thiết bị của bạn}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Khai thác tối đa Android của bạn}TABLET{Khai thác tối đa Máy tính bảng Android của bạn}other{Khai thác tối đa thiết bị của bạn}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, khai thác tối đa Android của bạn}TABLET{{0}, khai thác tối đa Máy tính bảng Android của bạn}other{{0}, khai thác tối đa thiết bị của bạn}}</string>
+     <string name="setup_wizard_title">Thiết lập Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android dùng tính năng Motion Sense để phát hiện chuyển động ở gần. Tính năng này không sử dụng máy ảnh, micrô hay thông tin vị trí.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Chào mừng bạn đến với Android}TABLET{Chào mừng bạn đến với Máy tính bảng Android}other{Chào mừng bạn đến với THIẾT BỊ của bạn}}</string>
+</resources>

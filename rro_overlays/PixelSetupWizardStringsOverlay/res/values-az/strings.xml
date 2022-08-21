@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android yaxınlıqda hərəkəti aşkarlamaq üçün Motion Sense işlədir. O, kamera, mikrofon və ya məkandan istifadə etmir.</string>
+     <string name="bc_welcome_message">"Android'də xoş gördük"</string>
+     <string name="deferred_setup_wizard_title">Android quraşdırmasını tamamlayın</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">"{DEVICE_TYPE,select, PHONE{Android'i fərdiləşdirin}TABLET{Android Planşetinizi fərdiləşdirin}other{Cihazınızı fərdiləşdirin}}"</string>
+     <string name="portal_setup_title">"{DEVICE_TYPE,select, PHONE{Android'dən maksimum yararlanın}TABLET{Android Planşetinizdən maksimum yararlanın}other{Cihazınızdan maksimum yararlanın}}"</string>
+     <string name="portal_setup_title_with_username">"{DEVICE_TYPE,select, PHONE{{0}, Android'dən maksimum yararlanın}TABLET{{0}, Android Planşetinizdən maksimum yararlanın}other{{0}, cihazınızdan maksimum yararlanın}}"</string>
+     <string name="setup_wizard_title">Android Quraşdırması</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android yaxınlıqda hərəkəti aşkarlamaq üçün Motion Sense işlədir. O, kamera, mikrofon və ya məkandan istifadə etmir.</string>
+     <string name="welcome_message">"{DEVICE_TYPE,select, PHONE{Android'ə xoş gəlmisiniz}TABLET{Android Planşetə xoş gəlmisiniz}other{Cihazınıza xoş gəlmisiniz}}"</string>
+</resources>

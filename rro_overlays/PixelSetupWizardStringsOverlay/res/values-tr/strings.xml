@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android, etraftaki hareketleri algılamak için Motion Sense özelliğini kullanır. Kamera, mikrofon veya konum bilgilerinizi kullanmaz.</string>
+     <string name="bc_welcome_message">Android telefonunuza hoş geldiniz</string>
+     <string name="deferred_setup_wizard_title">"Android'in kurulumunu tamamlayın"</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">"{DEVICE_TYPE,select, PHONE{Android'inizi özelleştirin}TABLET{Android tabletinizi özelleştirin}other{Cihazınızı özelleştirin}}"</string>
+     <string name="portal_setup_title">"{DEVICE_TYPE,select, PHONE{Android'inizi en iyi şekilde kullanın}TABLET{Android tableti en iyi şekilde kullanın}other{Cihazınızı en iyi şekilde kullanın}}"</string>
+     <string name="portal_setup_title_with_username">"{DEVICE_TYPE,select, PHONE{{0}, Android'inizi en iyi şekilde kullanın}TABLET{{0}, Android tableti en iyi şekilde kullanın}other{{0}, cihazınızı en iyi şekilde kullanın}}"</string>
+     <string name="setup_wizard_title">Android Kurulumu</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android, etraftaki hareketleri algılamak için Motion Sense özelliğini kullanır. Kamera, mikrofon veya konum bilgilerinizi kullanmaz.</string>
+     <string name="welcome_message">"{DEVICE_TYPE,select, PHONE{Android'inize hoş geldiniz}TABLET{Android tabletinize hoş geldiniz}other{Cihazınıza hoş geldiniz}}"</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android ойролцоох хөдөлгөөнийг илрүүлэхдээ Motion Sense ашигладаг. Энэ таны камер, микрофон эсвэл байршлыг ашигладаггүй.</string>
+     <string name="bc_welcome_message">Android-дээ тавтай морилно уу</string>
+     <string name="deferred_setup_wizard_title">Android-г тохируулж дуусах</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Android-ээ өөрчилнө үү}TABLET{Android таблетаа өөрчилнө үү}other{Төхөөрөмжөө өөрчилнө үү}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Android-ээ бүрэн ашиглаарай}TABLET{Android таблетаа бүрэн ашиглаарай}other{Төхөөрөмжөө бүрэн ашиглаарай}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, Android-ээ бүрэн ашиглаарай}TABLET{{0}, Android таблетаа бүрэн ашиглаарай}other{{0}, төхөөрөмжөө бүрэн ашиглаарай}}</string>
+     <string name="setup_wizard_title">Android-н тохиргоо</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android ойролцоох хөдөлгөөнийг илрүүлэхдээ Motion Sense ашигладаг. Энэ таны камер, микрофон эсвэл байршлыг ашигладаггүй.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Android-дээ тавтай морилно уу}TABLET{Android-н таблетдаа тавтай морилно уу}other{Төхөөрөмждөө тавтай морилно уу}}</string>
+</resources>

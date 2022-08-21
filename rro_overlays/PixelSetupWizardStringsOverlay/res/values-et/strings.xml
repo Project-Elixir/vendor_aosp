@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">"Android kasutab läheduses toimuva liikumise tuvastamiseks Motion Sense'i andurit. See ei kasuta teie kaamerat, mikrofoni ega asukohta."</string>
+     <string name="bc_welcome_message">Tere tulemast Androidi seadmesse</string>
+     <string name="deferred_setup_wizard_title">Androidi seadistamise lõpuleviimine</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Androidi kohandamine}TABLET{Androidi tahvelarvuti kohandamine}other{Seadme kohandamine}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Kasutage oma Androidit parimal moel}TABLET{Kasutage oma Androidi tahvelarvutit parimal moel}other{Kasutage oma seadet parimal viisil}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, kasutage oma Androidit parimal moel}TABLET{{0}, kasutage oma Androidi tahvelarvutit parimal moel}other{{0}, kasutage oma seadet parimal viisil}}</string>
+     <string name="setup_wizard_title">Androidi seadistamine</string>
+     <string name="smart_always_on_display_opt_in_info_text">"Android kasutab läheduses toimuva liikumise tuvastamiseks Motion Sense'i andurit. See ei kasuta teie kaamerat, mikrofoni ega asukohta."</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Tere tulemast Androidi seadmesse}TABLET{Tere tulemast Androidi tahvelarvutisse}other{Tere tulemast teie seadmesse}}</string>
+</resources>

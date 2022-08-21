@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android අවට චලනය අනාවරණයට Motion Sense භාවිතා කරයි. එය ඔබේ කැමරාව, මයික්‍රොෆෝනය, හෝ ස්ථානය භාවිත නොකරයි.</string>
+     <string name="bc_welcome_message">ඔබගේ Android වෙත සාදරයෙන් පිළිගනිමු</string>
+     <string name="deferred_setup_wizard_title">Android පිහිටුවීම අවසන් කරන්න</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{ඔබගේ Android අභිරුචිකරණය කරන්න}TABLET{ඔබගේ Android ටැබ්ලටය අභිරුචිකරණය කරන්න}other{ඔබගේ උපාංගය අභිරුචිකරණය කරන්න}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{ඔබගේ Android වෙතින් උපරිම ප්‍රයෝජන ගන්න}TABLET{ඔබගේ Android වෙතින් උපරිම ප්‍රයෝජන ගන්න}other{ඔබගේ උපාංගය වෙතින් උපරිම ප්‍රයෝජන ගන්න}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, ඔබගේ Android වෙතින් උපරිම ප්‍රයෝජන ගන්න}TABLET{{0}, ඔබගේ Android ටැබ්ලටය වෙතින් උපරිම ප්‍රයෝජන ගන්න}other{{0}, ඔබගේ උපාංගය වෙතින් උපරිම ප්‍රයෝජන ගන්න}}</string>
+     <string name="setup_wizard_title">Android පිහිටුවීම</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android අවට චලනය අනාවරණයට Motion Sense භාවිතා කරයි. එය ඔබේ කැමරාව, මයික්‍රොෆෝනය, හෝ ස්ථානය භාවිත නොකරයි.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{ඔබගේ Android එක වෙත පිළිගනිමු}TABLET{ඔබගේ Android ටැබ්ලට් එක වෙත පිළිගනිමු}other{ඔබගේ උපාංගය වෙත පිළිගනිමු}}</string>
+</resources>

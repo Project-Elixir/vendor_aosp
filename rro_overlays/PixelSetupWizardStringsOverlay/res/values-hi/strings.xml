@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android, आस-पास होने वाली हलचल को महसूस करने के लिए, Motion Sense का इस्तेमाल करता है. यह आपके फ़ोन के कैमरे, माइक या जगह की जानकारी का इस्तेमाल नहीं करता.</string>
+     <string name="bc_welcome_message">Android फ़ोन पर आपका स्वागत है</string>
+     <string name="deferred_setup_wizard_title">Android का सेट अप पूरा करें</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Android काे अपनी पसंद के मुताबिक बनाएं}TABLET{Android टैबलेट काे अपनी पसंद के मुताबिक बनाएं}other{डिवाइस को अपनी पसंद के मुताबिक बनाएं}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{अपने Android का पूरा फ़ायदा पाएं}TABLET{अपने Android टैबलेट का पूरा फ़ायदा पाएं}other{अपने डिवाइस का पूरा फ़ायदा पाएं}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, अपने Android का पूरा फ़ायदा पाएं}TABLET{{0}, अपने Android टैबलेट का पूरा फ़ायदा पाएं}other{{0}, अपने डिवाइस का पूरा फ़ायदा पाएं}}</string>
+     <string name="setup_wizard_title">Android का सेटअप</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android, आस-पास होने वाली हलचल को महसूस करने के लिए, Motion Sense का इस्तेमाल करता है. यह आपके फ़ोन के कैमरे, माइक या जगह की जानकारी का इस्तेमाल नहीं करता.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Android में आपका स्वागत है}TABLET{Android टैबलेट में आपका स्वागत है}other{डिवाइस में आपका स्वागत है}}</string>
+</resources>

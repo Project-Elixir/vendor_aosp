@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android ប្រើមុខងារ Motion Sense ដើម្បី​ចាប់ចលនា​ដែលនៅជិត។ មុខងារនេះ​មិនប្រើ​កាមេរ៉ា មីក្រូហ្វូន ឬ​ទីតាំង​របស់អ្នក​ទេ។</string>
+     <string name="bc_welcome_message">សូមស្វាគមន៍មកកាន់ Android របស់អ្នក</string>
+     <string name="deferred_setup_wizard_title">បញ្ចប់​ការរៀបចំ Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{កំណត់ Android របស់​អ្នកតាមបំណង}TABLET{កំណត់​ថេប្លេត Android របស់​អ្នកតាមបំណង}other{កំណត់ឧបករណ៍​របស់អ្នក​តាមបំណង}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{ទទួលបានអត្ថប្រយោជន៍​ច្រើនបំផុតពី Android របស់អ្នក}TABLET{ទទួលបានអត្ថប្រយោជន៍​ច្រើនបំផុតពីថេប្លេត Android របស់អ្នក}other{ទទួលបានអត្ថប្រយោជន៍​ច្រើនបំផុតពីឧបករណ៍របស់អ្នក}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0} ទទួលបានអត្ថប្រយោជន៍​ច្រើនបំផុតពី Android របស់អ្នក}TABLET{{0} ទទួលបានអត្ថប្រយោជន៍​ច្រើនបំផុតពីថេប្លេត Android របស់អ្នក}other{{0} ទទួលបានអត្ថប្រយោជន៍​ច្រើនបំផុតពីឧបករណ៍របស់អ្នក}}</string>
+     <string name="setup_wizard_title">ការរៀបចំ Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android ប្រើមុខងារ Motion Sense ដើម្បី​ចាប់ចលនា​ដែលនៅជិត។ មុខងារនេះ​មិនប្រើ​កាមេរ៉ា មីក្រូហ្វូន ឬ​ទីតាំង​របស់អ្នក​ទេ។</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{សូមស្វាគមន៍មកកាន់ Android របស់អ្នក}TABLET{សូម​ស្វាគមន៍​មក​កាន់ថេប្លេត Android របស់​អ្នក}other{សូមស្វាគមន៍មកកាន់ឧបករណ៍របស់អ្នក}}</string>
+</resources>

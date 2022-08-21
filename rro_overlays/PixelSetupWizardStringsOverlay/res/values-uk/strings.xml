@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android використовує Motion Sense, щоб розпізнавати рухи поблизу. Для цього не потрібні камера, мікрофон і дані про місцезнаходження.</string>
+     <string name="bc_welcome_message">Вас вітає Android</string>
+     <string name="deferred_setup_wizard_title">Android налаштовано не повністю</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Налаштуйте свій телефон Android}TABLET{Налаштуйте свій планшет Android}other{Налаштуйте свій пристрій}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Використовуйте телефон Android на повну}TABLET{Використовуйте планшет Android на повну}other{Використовуйте свій пристрій на повну}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, використовуйте телефон Android на повну}TABLET{{0}, використовуйте планшет Android на повну}other{{0}, використовуйте свій пристрій на повну}}</string>
+     <string name="setup_wizard_title">Android Setup</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android використовує Motion Sense, щоб розпізнавати рухи поблизу. Для цього не потрібні камера, мікрофон і дані про місцезнаходження.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Вітаємо в телефоні Android}TABLET{Вітаємо в планшеті Android}other{Вітаємо у вашому пристрої}}</string>
+</resources>

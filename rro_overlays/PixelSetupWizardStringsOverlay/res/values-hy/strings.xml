@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Մոտակայքում շարժում հայտնաբերելու նպատակով Android-ն օգտագործում է Motion Sense գործառույթը: Ձեր տեսախցիկը, խոսափողը և տեղադրության մասին տվյալները չեն օգտագործվում:</string>
+     <string name="bc_welcome_message">Բարի գալուստ ձեր Android</string>
+     <string name="deferred_setup_wizard_title">Ավարտեք Android-ի կարգավորումը</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Անհատականացրեք ձեր Android-ը}TABLET{Անհատականացրեք ձեր Android պլանշետը}other{Անհատականացրեք ձեր սարքը}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Ստացեք առավելագույնը ձեր Android-ից}TABLET{Ստացեք առավելագույնը ձեր Android պլանշետից}other{Ստացեք առավելագույնը ձեր սարքից}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, ստացեք առավելագույնը ձեր Android-ից}TABLET{{0}, ստացեք առավելագույնը Android պլանշետից}other{{0}, ստացեք առավելագույնը ձեր սարքից}}</string>
+     <string name="setup_wizard_title">Android-ի կարգավորում</string>
+     <string name="smart_always_on_display_opt_in_info_text">Մոտակայքում շարժում հայտնաբերելու նպատակով Android-ն օգտագործում է Motion Sense գործառույթը: Ձեր տեսախցիկը, խոսափողը և տեղադրության մասին տվյալները չեն օգտագործվում:</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Ներկայացնում ենք ձեր Android-ը}TABLET{Ներկայացնում ենք ձեր Android պլանշետը}other{Ներկայացնում ենք ձեր սարքը}}</string>
+</resources>

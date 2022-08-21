@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">‏يستخدم هاتف Android ميزة Motion Sense لرصد الحركة القريبة. ولا يستخدم الكاميرا أو الميكروفون أو موقعك الجغرافي.</string>
+     <string name="bc_welcome_message">‏مرحبًا بك في هاتف Android</string>
+     <string name="deferred_setup_wizard_title">‏إكمال إعداد Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{‏خصِّص هاتف Android}TABLET{‏خصِّص جهاز Android اللوحي}other{خصِّص جهازك}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{‏استفِد إلى أقصى حد من هاتف Android}TABLET{‏استفِد إلى أقصى حد من جهاز Android اللوحي}other{استفِد إلى أقصى حد من جهازك}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{‏{0}، يمكنك تحقيق أقصى استفادة من هاتف Android}TABLET{‏{0}، يمكنك تحقيق أقصى استفادة من جهاز Android اللوحي}other{{0}، يمكنك تحقيق أقصى استفادة من جهازك}}</string>
+     <string name="setup_wizard_title">‏إعداد Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">‏يستخدم هاتف Android ميزة Motion Sense لرصد الحركة القريبة. ولا يستخدم الكاميرا أو الميكروفون أو موقعك الجغرافي.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{‏مرحبًا بك في هاتف Android}TABLET{‏مرحبًا بك في جهاز Android اللوحي}other{مرحبًا بك في جهازك}}</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">அருகிலுள்ள நகர்வைக் கண்டறிய Android Motion Sense அம்சத்தைப் பயன்படுத்துகிறது. கேமராவையோ மைக்கையோ இருப்பிடத்தையோ பயன்படுத்தாது.</string>
+     <string name="bc_welcome_message">Androidலுக்கு வரவேற்கிறோம்</string>
+     <string name="deferred_setup_wizard_title">Androidலை அமைப்பதை முடிக்கவும்</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Android மொபைலைப் பிரத்தியேகமாக்குங்கள்}TABLET{Android டேப்லெட்டைப் பிரத்தியேகமாக்குங்கள்}other{உங்கள் சாதனத்தைப் பிரத்தியேகமாக்குங்கள்}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Android மொபைலில் அதிகப் பலன்களைப் பெறுக}TABLET{Android டேப்லெட்டில் அதிகப் பலனைப் பெறுக}other{உங்கள் சாதனத்தில் அதிகப் பலன்களைப் பெறுக}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, Android மொபைலில் அதிகப் பலன்களைப் பெறுக}TABLET{{0}, Android டேப்லெட்டில் அதிகப் பலனைப் பெறுக}other{{0}, உங்கள் சாதனத்தில் அதிகப் பலனைப் பெறுக}}</string>
+     <string name="setup_wizard_title">Android அமைவு</string>
+     <string name="smart_always_on_display_opt_in_info_text">அருகிலுள்ள நகர்வைக் கண்டறிய Android Motion Sense அம்சத்தைப் பயன்படுத்துகிறது. கேமராவையோ மைக்கையோ இருப்பிடத்தையோ பயன்படுத்தாது.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Androidலுக்கு வரவேற்கிறோம்}TABLET{Android டேப்லெட்டிற்கு வரவேற்கிறோம்}other{சாதனத்திற்கு வரவேற்கிறோம்}}</string>
+</resources>

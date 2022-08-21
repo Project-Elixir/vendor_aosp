@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.systemui.gxoverlay"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:category="com.google.android.systemui.gx" android:isStatic="false" android:targetName="SystemUI" android:targetPackage="com.android.systemui" />
+</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">‏Android قریبی تحریک کا پتا لگانے کیلئے Motion Sense کا استعمال کرتا ہے۔ یہ آپ کا کیمرا، مائیک یا مقام استعمال نہیں کرتا ہے۔</string>
+     <string name="bc_welcome_message">‏آپ کے Android میں خوش آمدید</string>
+     <string name="deferred_setup_wizard_title">‏Android کا سیٹ اپ مکمل کریں</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{‏اپنے Android کو حسب ضرورت بنائیں}TABLET{‏اپنے Android ٹیبلیٹ کو حسب ضرورت بنائیں}other{اپنا آلہ حسب ضرورت بنائیں}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{‏اپنے Android سے بھرپور فائدہ اٹھائیں}TABLET{‏اپنے Android ٹیبلیٹ سے بھرپور فائدہ اٹھائیں}other{اپنے آلہ سے بھرپور فائدہ اٹھائیں}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{‏{0}، اپنے Android سے بھرپور فائدہ اٹھائیں}TABLET{‏{0}، اپنے Android ٹیبلیٹ سے بھرپور فائدہ اٹھائیں}other{{0}، اپنے آلہ سے بھرپور فائدہ اٹھائیں}}</string>
+     <string name="setup_wizard_title">‏Android سیٹ اپ</string>
+     <string name="smart_always_on_display_opt_in_info_text">‏Android قریبی تحریک کا پتا لگانے کیلئے Motion Sense کا استعمال کرتا ہے۔ یہ آپ کا کیمرا، مائیک یا مقام استعمال نہیں کرتا ہے۔</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{‏آپ کے Android میں خوش آمدید}TABLET{‏آپ کے Android ٹیبلیٹ میں خوش آمدید}other{آپ کے آلہ میں خوش آمدید}}</string>
+</resources>

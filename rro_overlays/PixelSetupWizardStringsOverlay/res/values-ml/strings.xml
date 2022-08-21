@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">സമീപത്തുള്ള ചലനം മനസ്സിലാക്കാൻ Android, Motion Sense ഉപയോഗിക്കുന്നു. അത് നിങ്ങളുടെ ക്യാമറയോ മൈക്കോ ലൊക്കേഷനോ ഉപയോഗിക്കുന്നില്ല.</string>
+     <string name="bc_welcome_message">നിങ്ങളുടെ Android-ലേക്ക് സ്വാഗതം</string>
+     <string name="deferred_setup_wizard_title">Android സജ്ജീകരണം ‌പൂർത്തിയാക്കുക</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{നിങ്ങളുടെ Android ഇഷ്‌ടാനുസൃതമാക്കുക}TABLET{Android ടാബ്‌ലെറ്റ് ഇഷ്‌ടാനുസൃതമാക്കുക}other{നിങ്ങളുടെ ഉപകരണം ഇഷ്‌ടാനുസൃതമാക്കുക}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{നിങ്ങളുടെ Android പരമാവധി പ്രയോജനപ്പെടുത്തുക}TABLET{നിങ്ങളുടെ Android ടാബ്‌ലെറ്റ് പരമാവധി പ്രയോജനപ്പെടുത്തുക}other{നിങ്ങളുടെ ഉപകരണം പരമാവധി പ്രയോജനപ്പെടുത്തൂ}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, നിങ്ങളുടെ Android പരമാവധി പ്രയോജനപ്പെടുത്തുക}TABLET{{0}, നിങ്ങളുടെ Android ടാബ്‌ലെറ്റ് പരമാവധി പ്രയോജനപ്പെടുത്തുക}other{{0}, നിങ്ങളുടെ ഉപകരണം പരമാവധി പ്രയോജനപ്പെടുത്തുക}}</string>
+     <string name="setup_wizard_title">Android സജ്ജീകരണം</string>
+     <string name="smart_always_on_display_opt_in_info_text">സമീപത്തുള്ള ചലനം മനസ്സിലാക്കാൻ Android, Motion Sense ഉപയോഗിക്കുന്നു. അത് നിങ്ങളുടെ ക്യാമറയോ മൈക്കോ ലൊക്കേഷനോ ഉപയോഗിക്കുന്നില്ല.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{നിങ്ങളുടെ Android-ലേക്ക് സ്വാഗതം}TABLET{നിങ്ങളുടെ Android ടാബ്‌ലെറ്റിലേക്ക് സ്വാഗതം}other{നിങ്ങളുടെ ഉപകരണത്തിലേക്ക് സ്വാഗതം}}</string>
+</resources>

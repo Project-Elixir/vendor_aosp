@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android notar Motion Sense til að greina nálæga hreyfingu. Það notar ekki myndavélina þína, hljóðnema eða staðsetningu.</string>
+     <string name="bc_welcome_message">Velkomin(n) í Android</string>
+     <string name="deferred_setup_wizard_title">Ljúktu við að setja upp Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Sérsníddu Android-símann}TABLET{Sérsníddu Android spjaldtölvuna}other{Sérsníddu tækið}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Nýttu alla kosti Android símans}TABLET{Nýttu alla kosti Android spjaldtölvunnar}other{Nýttu alla kosti tækisins}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, nýttu alla kosti Android símans}TABLET{{0}, nýttu alla kosti Android spjaldtölvunnar}other{{0}, nýttu alla kosti tækisins}}</string>
+     <string name="setup_wizard_title">Uppsetning Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android notar Motion Sense til að greina nálæga hreyfingu. Það notar ekki myndavélina þína, hljóðnema eða staðsetningu.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Velkomin(n) í Android}TABLET{Velkomin(n) í Android spjaldtölvuna}other{Velkomin(n) í tækið þitt}}</string>
+</resources>

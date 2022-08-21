@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">ახლომახლო მოძრაობის აღმოსაჩენად Android იყენებს Motion Sense-ს. ის არ იყენებს თქვენს კამერას, მიკროფონს ან მდებარეობას.</string>
+     <string name="bc_welcome_message">მოგესალმებათ თქვენი Android</string>
+     <string name="deferred_setup_wizard_title">დაასრულეთ Android-ის დაყენება</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{მოირგეთ თქვენი Android}TABLET{მოირგეთ თქვენი Android-ის ტაბლეტი}other{მოირგეთ თქვენი მოწყობილობა}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{მიიღეთ მაქსიმუმი თქვენი Android-ისგან}TABLET{მიიღეთ მაქსიმუმი თქვენი Android-ის ტაბლეტისგან}other{მიიღეთ მაქსიმუმი თქვენი მოწყობილობისგან}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, მიიღეთ მაქსიმუმი თქვენი Android-ისგან}TABLET{{0}, მიიღეთ მაქსიმუმი თქვენი Android-ის ტაბლეტისგან}other{{0}, მიიღეთ მაქსიმუმი თქვენი მოწყობილობისგან}}</string>
+     <string name="setup_wizard_title">Android-ის დაყენება</string>
+     <string name="smart_always_on_display_opt_in_info_text">ახლომახლო მოძრაობის აღმოსაჩენად Android იყენებს Motion Sense-ს. ის არ იყენებს თქვენს კამერას, მიკროფონს ან მდებარეობას.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{მოგესალმებათ თქვენი Android}TABLET{მოგესალმებათ თქვენი Android ტაბლეტი}other{მოგესალმებათ თქვენი მოწყობილობა}}</string>
+</resources>

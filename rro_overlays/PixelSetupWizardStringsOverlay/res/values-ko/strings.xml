@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android은 Motion Sense를 사용하여 주변 움직임을 감지합니다. 이때 카메라, 마이크 또는 위치는 사용되지 않습니다.</string>
+     <string name="bc_welcome_message">Android을 구매해 주셔서 감사합니다</string>
+     <string name="deferred_setup_wizard_title">Android 설정 완료하기</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Android을 맞춤설정해 보세요}TABLET{Android 태블릿을 맞춤설정해 보세요}other{기기를 맞춤설정해 보세요}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Android을 최대한 활용해 보세요}TABLET{Android 태블릿을 최대한 활용해 보세요}other{기기를 최대한 활용해 보세요}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}님, Android을 최대한 활용해 보세요}TABLET{{0}님, Android 태블릿을 최대한 활용해 보세요}other{{0}님, 기기를 최대한 활용해 보세요}}</string>
+     <string name="setup_wizard_title">Android 설정</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android은 Motion Sense를 사용하여 주변 움직임을 감지합니다. 이때 카메라, 마이크 또는 위치는 사용되지 않습니다.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Android을 구매해 주셔서 감사합니다}TABLET{Android 태블릿을 구매해 주셔서 감사합니다}other{기기를 구매해 주셔서 감사합니다}}</string>
+</resources>

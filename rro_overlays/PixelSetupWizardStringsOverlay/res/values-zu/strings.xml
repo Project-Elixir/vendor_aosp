@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">I-Android isebenzisa i-Motion Sense ukuze ithole ukunyakaza okuseduze. Ayisebenzisi ikhamera yakho, imakrofoni, noma indawo.</string>
+     <string name="bc_welcome_message">Siyakwamukela kwi-Android yakho</string>
+     <string name="deferred_setup_wizard_title">Qedelela ukusetha i-Android</string>
+     <string name="device_name">I-Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Enza ngendlela oyifisayo i-Android yakho}TABLET{Enza ngendlela oyifisayo ithebulethi yakho ye-Android}other{Enza ngendlela oyifisayo idivayisi yakho}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Yenza okuningi nge-Android yakho}TABLET{Yenza okuningi ngethebulethi yakho ye-Android}other{Yenza okuningi ngedivayisi yakho}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, yenza okuningi nge-Android yakho}TABLET{{0}, yenza okuningi ngethebulethi yakho ye-Android}other{{0}, yenza okuningi ngedivayisi yakho}}</string>
+     <string name="smart_always_on_display_opt_in_info_text">I-Android isebenzisa i-Motion Sense ukuze ithole ukunyakaza okuseduze. Ayisebenzisi ikhamera yakho, imakrofoni, noma indawo.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Siyakwamukela kwi-Android yakho}TABLET{Siyakwamukela kwi-Android Tablet yakho}other{Siyakwamukela kudivayisi yakho}}</string>
+</resources>

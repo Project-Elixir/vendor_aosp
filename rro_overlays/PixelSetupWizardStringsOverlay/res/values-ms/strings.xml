@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android menggunakan Motion Sense untuk mengesan pergerakan yang berdekatan. Ciri ini tidak menggunakan kamera, mikrofon atau lokasi anda.</string>
+     <string name="bc_welcome_message">Selamat datang ke Android anda</string>
+     <string name="deferred_setup_wizard_title">Selesaikan persediaan Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Sesuaikan Android anda}TABLET{Sesuaikan Tablet Android anda}other{Sesuaikan peranti anda}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Manfaatkan Android anda sepenuhnya}TABLET{Manfaatkan Tablet Android anda sepenuhnya}other{Manfaatkan peranti anda sepenuhnya}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, manfaatkan Android anda sepenuhnya}TABLET{{0}, manfaatkan Tablet Android anda sepenuhnya}other{{0}, manfaatkan peranti anda sepenuhnya}}</string>
+     <string name="setup_wizard_title">Persediaan Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android menggunakan Motion Sense untuk mengesan pergerakan yang berdekatan. Ciri ini tidak menggunakan kamera, mikrofon atau lokasi anda.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Selamat datang ke Android anda}TABLET{Selamat datang ke Tablet Android anda}other{Selamat datang ke peranti anda}}</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">নিকটৱৰ্তী কার্যকলাপসমূহ চিনাক্ত কৰিবলৈ Androidএ Motion Sense ব্যৱহাৰ কৰে। ই আপোনাৰ কেমেৰা, মাইক অথবা অৱস্থান ব্যৱহাৰ নকৰে।</string>
+     <string name="bc_welcome_message">আপোনাৰ Androidলৈ স্বাগতম</string>
+     <string name="deferred_setup_wizard_title">Androidৰ ছেট আপ সম্পূৰ্ণ কৰক</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{আপোনাৰ Android কাষ্টমাইজ কৰক}TABLET{আপোনাৰ Android টেবলেট কাষ্টমাইজ কৰক}other{আপোনাৰ ডিভাইচ কাষ্টমাইজ কৰক}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{আপোনাৰ Androidৰ পৰা পাৰ্যমানে উপকৃত হওক}TABLET{আপোনাৰ Android টেবলেটৰ পৰা পাৰ্যমানে উপকৃত হওক}other{আপোনাৰ ডিভাইচৰ পৰা পাৰ্যমানে উপকৃত হওক}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, আপোনাৰ Androidৰ পৰা পাৰ্যমানে উপকৃত হওক}TABLET{{0}, আপোনাৰ Android টেবলেটৰ পৰা পাৰ্যমানে উপকৃত হওক}other{{0}, আপোনাৰ ডিভাইচৰ পৰা পাৰ্যমানে উপকৃত হওক}}</string>
+     <string name="setup_wizard_title">Android ছেট আপ</string>
+     <string name="smart_always_on_display_opt_in_info_text">নিকটৱৰ্তী কার্যকলাপসমূহ চিনাক্ত কৰিবলৈ Androidএ Motion Sense ব্যৱহাৰ কৰে। ই আপোনাৰ কেমেৰা, মাইক অথবা অৱস্থান ব্যৱহাৰ নকৰে।</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{আপোনাৰ Androidলৈ স্বাগতম}TABLET{আপোনাৰ Android টেবলেটলৈ স্বাগতম}other{আপোনাৰ ডিভাইচলৈ স্বাগতম}}</string>
+</resources>

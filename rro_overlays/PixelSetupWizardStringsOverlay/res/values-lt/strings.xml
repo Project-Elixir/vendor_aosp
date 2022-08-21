@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">„Android“ įrenginys naudoja „Motion Sense“, kad galėtų aptikti judėjimą netoliese. Fotoaparatas, mikrofonas ar vietovės informacija nenaudojami.</string>
+     <string name="bc_welcome_message">Sveiki! Tai – „Android“</string>
+     <string name="deferred_setup_wizard_title">Užbaikite „Android“ sąranką</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{„Android“ įrenginio tinkinimas}TABLET{„Android“ planšetinio kompiuterio tinkinimas}other{Įrenginio tinkinimas}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Išnaudokite visas „Android“ galimybes}TABLET{Išnaudokite visas „Android“ planšetinio kompiuterio galimybes}other{Išnaudokite visas įrenginio galimybes}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, išnaudokite visas „Android“ galimybes}TABLET{{0}, išnaudokite visas „Android“ planšetinio kompiuterio galimybes}other{{0}, išnaudokite visas įrenginio galimybes}}</string>
+     <string name="setup_wizard_title">„Android“ sąranka</string>
+     <string name="smart_always_on_display_opt_in_info_text">„Android“ įrenginys naudoja „Motion Sense“, kad galėtų aptikti judėjimą netoliese. Fotoaparatas, mikrofonas ar vietovės informacija nenaudojami.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Sveiki, tai – „Android“}TABLET{Sveiki, tai – „Android“ planšetinis kompiuteris}other{Sveiki, tai – jūsų įrenginys}}</string>
+</resources>

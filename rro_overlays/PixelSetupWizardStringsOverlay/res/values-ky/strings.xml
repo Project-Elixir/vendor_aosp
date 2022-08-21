@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Motion Sense функциясы аркылуу Android жакын жердеги кыймылды аныктай алат. Ага камераңыз, микрофонуңуз же кайда турганыңыз талап кылынбайт.</string>
+     <string name="bc_welcome_message">Android түзмөгүңүзгө кош келиңиз</string>
+     <string name="deferred_setup_wizard_title">Android түзмөгүн аягына чейин жөндөңүз</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">"{DEVICE_TYPE,select, PHONE{Android'ди ыңгайлаштырыңыз}TABLET{Android планшетин ыңгайлаштырыңыз}other{Түзмөктү ыңгайлаштырыңыз}}"</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Android түзмөгүңүздүн бардык мүмкүнчүлүктөрүн пайдаланыңыз}TABLET{Android планшетиңиздин бардык мүмкүнчүлүктөрүн пайдаланыңыз}other{Түзмөгүңүздүн бардык мүмкүнчүлүктөрүн пайдаланыңыз}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, Android түзмөгүңүздүн бардык мүмкүнчүлүктөрүн пайдаланыңыз}TABLET{{0}, Android планшетиңиздин бардык мүмкүнчүлүктөрүн пайдаланыңыз}other{{0}, түзмөгүңүздүн бардык мүмкүнчүлүктөрүн пайдаланыңыз}}</string>
+     <string name="setup_wizard_title">Android түзмөгүн жөндөө</string>
+     <string name="smart_always_on_display_opt_in_info_text">Motion Sense функциясы аркылуу Android жакын жердеги кыймылды аныктай алат. Ага камераңыз, микрофонуңуз же кайда турганыңыз талап кылынбайт.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Android түзмөгүңүзгө кош келиңиз}TABLET{Android планшетиңизге кош келиңиз}other{Түзмөгүңүзгө кош келиңиз}}</string>
+</resources>

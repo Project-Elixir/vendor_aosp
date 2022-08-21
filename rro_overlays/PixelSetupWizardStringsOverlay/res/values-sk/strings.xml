@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android rozpoznáva pohyb v okolí funkciou Motion Sense. Nepoužíva fotoaparát, mikrofón ani polohu.</string>
+     <string name="bc_welcome_message">Víta vás Android</string>
+     <string name="deferred_setup_wizard_title">Dokončite nastavenie Androida</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Prispôsobte si Android}TABLET{Prispôsobte si tablet Android}other{Prispôsobte si zariadenie}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Využívajte svoj Android na maximum}TABLET{Využívajte svoj tablet Android na maximum}other{Využívajte svoje zariadenie na maximum}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, využívajte svoj Android na maximum}TABLET{{0}, využívajte svoj tablet Android na maximum}other{{0}, využívajte svoje zariadenie na maximum}}</string>
+     <string name="setup_wizard_title">Nastavenie telefónu Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android rozpoznáva pohyb v okolí funkciou Motion Sense. Nepoužíva fotoaparát, mikrofón ani polohu.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Vitajte v Androidi}TABLET{Vitajte v tablete Android}other{Vitajte v zariadení}}</string>
+</resources>

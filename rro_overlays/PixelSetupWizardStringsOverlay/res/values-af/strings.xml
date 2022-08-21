@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android gebruik Motion Sense om beweging in die omtrek te bespeur. Dit gebruik nie jou kamera, mikrofoon of ligging nie.</string>
+     <string name="bc_welcome_message">Welkom by jou Android</string>
+     <string name="deferred_setup_wizard_title">Voltooi die opstelling van Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Pasmaak jou Android}TABLET{Pasmaak jou Android-tablet}other{Pasmaak jou toestel}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Benut jou Android ten beste}TABLET{Benut jou Android-tablet ten beste}other{Benut jou toestel ten beste}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, benut jou Android ten beste}TABLET{{0}, benut jou Android-tablet ten beste}other{{0}, benut jou toestel ten beste}}</string>
+     <string name="setup_wizard_title">Android-opstelling</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android gebruik Motion Sense om beweging in die omtrek te bespeur. Dit gebruik nie jou kamera, mikrofoon of ligging nie.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Welkom by jou Android}TABLET{Welkom by jou Android-tablet}other{Welkom by jou toestel}}</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android በአቅራቢያ ያለ እንቅስቃሴን ለማግኘት Motion Senseን ይጠቀማል። የእርስዎን ካሜራ፣ ማይክሮፎን ወይም አካባቢ አይጠቀምም።</string>
+     <string name="bc_welcome_message">እንኳን ወደ የእርስዎ Android በደህና መጡ</string>
+     <string name="deferred_setup_wizard_title">Androidን ማወቀር ይጨርሱ</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{የእርስዎን Android ያብጁ}TABLET{የእርስዎን Android ጡባዊ ያብጁ}other{የእርስዎን መሣሪያ ያብጁ}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{ከእርስዎ Android ሊገኝ የሚችለውን ሁሉ ያግኙ}TABLET{ከእርስዎ Android ጡባዊ ሊገኝ የሚችለውን ሁሉ ያግኙ}other{ከእርስዎ መሣሪያ ሊገኝ የሚችለውን ሁሉ ያግኙ}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}፣ ከእርስዎ Android ሊያገኙ የሚችሉትን ሁሉ ያግኙ}TABLET{{0}፣ ከእርስዎ Android ጡባዊ ሊያገኙ የሚችሉትን ሁሉ ያግኙ}other{{0}፣ ከእርስዎ መሣሪያ ሊያገኙ የሚችሉትን ሁሉ ያግኙ}}</string>
+     <string name="setup_wizard_title">የAndroid ውቅረት</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android በአቅራቢያ ያለ እንቅስቃሴን ለማግኘት Motion Senseን ይጠቀማል። የእርስዎን ካሜራ፣ ማይክሮፎን ወይም አካባቢ አይጠቀምም።</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{እንኳን ወደ የእርስዎ Android በደህና መጡ}TABLET{እንኳን ወደ የእርስዎ Android ጡባዊ በደህና መጡ}other{እንኳን ወደ የእርስዎ መሣሪያ በደህና መጡ}}</string>
+</resources>

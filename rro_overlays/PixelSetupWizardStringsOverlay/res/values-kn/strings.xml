@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">ಸಮೀಪದಲ್ಲಾಗುವ ಚಲನೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಲು Android Motion Sense ಅನ್ನು ಬಳಸುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಕ್ಯಾಮರಾ, ಮೈಕ್ ಅಥವಾ ಸ್ಥಳವನ್ನು ಬಳಸುವುದಿಲ್ಲ.</string>
+     <string name="bc_welcome_message">ನಿಮ್ಮ Android ಗೆ ಸ್ವಾಗತ</string>
+     <string name="deferred_setup_wizard_title">Android ಸೆಟಪ್ ಮಾಡುವುದನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{ನಿಮ್ಮ Android ಅನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ}TABLET{ನಿಮ್ಮ Android ಟ್ಯಾಬ್ಲೆಟ್ ಅನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ}other{ನಿಮ್ಮ ಸಾಧನವನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{ನಿಮ್ಮ Android ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ}TABLET{ನಿಮ್ಮ Android ಟ್ಯಾಬ್ಲೆಟ್‌ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ}other{ನಿಮ್ಮ ಸಾಧನದಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, ನಿಮ್ಮ Android ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ}TABLET{{0}, ನಿಮ್ಮ Android ಟ್ಯಾಬ್ಲೆಟ್‌ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ}other{{0}, ನಿಮ್ಮ ಸಾಧನದಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ}}</string>
+     <string name="setup_wizard_title">Android ಸೆಟಪ್</string>
+     <string name="smart_always_on_display_opt_in_info_text">ಸಮೀಪದಲ್ಲಾಗುವ ಚಲನೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಲು Android Motion Sense ಅನ್ನು ಬಳಸುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಕ್ಯಾಮರಾ, ಮೈಕ್ ಅಥವಾ ಸ್ಥಳವನ್ನು ಬಳಸುವುದಿಲ್ಲ.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{ನಿಮ್ಮ Android ಗೆ ಸುಸ್ವಾಗತ}TABLET{ನಿಮ್ಮ Android ಟ್ಯಾಬ್ಲೆಟ್‌ಗೆ ಸುಸ್ವಾಗತ}other{ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಸುಸ್ವಾಗತ}}</string>
+</resources>

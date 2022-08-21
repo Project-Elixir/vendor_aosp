@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">‏טלפון Android משתמש בתכונת Motion Sense לזיהוי תנועות בקרבת מקום. התכונה אינה משתמשת במצלמה, במיקרופון או במיקום.</string>
+     <string name="bc_welcome_message">‏ברכות על ה-Android שלך</string>
+     <string name="deferred_setup_wizard_title">‏לא סיימת להגדיר את Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{‏התאמה אישית של Android}TABLET{‏התאמה אישית של טאבלט Android}other{התאמה אישית של המכשיר}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{‏רוצה להפיק את המרב מ-Android?}TABLET{‏רוצה להפיק את המרב מטאבלט Android?}other{רוצה להפיק את המרב מהמכשיר?}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{‏{0}, רוצה להפיק את המרב מ-Android?}TABLET{‏{0}, רוצה להפיק את המרב מטאבלט Android?}other{{0}, רוצה להפיק את המרב מהמכשיר?}}</string>
+     <string name="setup_wizard_title">‏הגדרת Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">‏טלפון Android משתמש בתכונת Motion Sense לזיהוי תנועות בקרבת מקום. התכונה אינה משתמשת במצלמה, במיקרופון או במיקום.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{‏ברכות על ה-Android שלך}TABLET{‏ברכות על הטאבלט Android שלך}other{ברוך הבא למכשיר שלך}}</string>
+</resources>

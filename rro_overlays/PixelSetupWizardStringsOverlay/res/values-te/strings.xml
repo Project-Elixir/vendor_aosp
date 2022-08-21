@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android, సమీపంలోని కదలికను గుర్తించడానికి, Motion Senseను ఉపయోగిస్తుంది. ఇది మీ కెమెరా, మైక్ లేదా లొకేషన్‌ను ఉపయోగించదు.</string>
+     <string name="bc_welcome_message">మీ Androidకు స్వాగతం</string>
+     <string name="deferred_setup_wizard_title">Androidను సెటప్ చేయడం ముగించండి</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{మీ Androidను అనుకూలంగా మార్చండి}TABLET{మీ Android టాబ్లెట్‌ను అనుకూలంగా మార్చండి}other{మీ పరికరాన్ని అనుకూలీకరించండి}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{మీ Android నుండి అత్యధిక ప్రయోజనాలను పొందండి}TABLET{మీ Android టాబ్లెట్ నుండి అత్యధిక ప్రయోజనాలను పొందండి}other{మీ పరికరం నుండి అత్యధిక ప్రయోజనాలను పొందండి}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, మీ Android నుండి అత్యధిక ప్రయోజనాలను పొందండి}TABLET{{0}, మీ Android టాబ్లెట్ నుండి అత్యధిక ప్రయోజనాలను పొందండి}other{{0}, మీ పరికరం నుండి అత్యధిక ప్రయోజనాలను పొందండి}}</string>
+     <string name="setup_wizard_title">Android సెటప్</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android, సమీపంలోని కదలికను గుర్తించడానికి, Motion Senseను ఉపయోగిస్తుంది. ఇది మీ కెమెరా, మైక్ లేదా లొకేషన్‌ను ఉపయోగించదు.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{మీ Androidకు స్వాగతం}TABLET{మీ Android టాబ్లెట్‌కు స్వాగతం}other{మీ పరికరానికి స్వాగతం}}</string>
+</resources>

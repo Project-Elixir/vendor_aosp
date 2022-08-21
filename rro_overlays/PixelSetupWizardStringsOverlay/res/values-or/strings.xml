@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android ଆଖପାଖର ଗତିବିଧି ଚିହ୍ନଟ କରିବା ପାଇଁ Motion Sense ବ୍ୟବହାର କରିଥାଏ। ଏହା ଆପଣଙ୍କର କ୍ୟାମେରା, ମାଇକ୍ କିମ୍ବା ଲୋକେସନ୍ ବ୍ୟବହାର କରେ ନାହିଁ।</string>
+     <string name="bc_welcome_message">ଆପଣଙ୍କ Androidକୁ ସ୍ୱାଗତ</string>
+     <string name="deferred_setup_wizard_title">Android ସେଟ୍‌ ଅପ୍‍ କରିବା ଶେଷ କରନ୍ତୁ</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{ଆପଣଙ୍କ Androidକୁ କଷ୍ଟମାଇଜ କରନ୍ତୁ}TABLET{ଆପଣଙ୍କ Android ଟାବଲେଟକୁ କଷ୍ଟମାଇଜ କରନ୍ତୁ}other{ଆପଣଙ୍କ ଡିଭାଇସକୁ କଷ୍ଟମାଇଜ କରନ୍ତୁ}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{ଆପଣଙ୍କ Androidରୁ ଅଧିକ ଲାଭ ପାଆନ୍ତୁ}TABLET{ଆପଣଙ୍କ Android ଟାବଲେଟରୁ ଅଧିକ ଲାଭ ପାଆନ୍ତୁ}other{ଆପଣଙ୍କ ଡିଭାଇସରୁ ଅଧିକ ଲାଭ ପାଆନ୍ତୁ}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, ଆପଣଙ୍କ Androidରୁ ଅଧିକ ଲାଭ ପାଆନ୍ତୁ}TABLET{{0}, ଆପଣଙ୍କ Android ଟାବଲେଟରୁ ଅଧିକ ଲାଭ ପାଆନ୍ତୁ}other{{0}, ଆପଣଙ୍କ ଡିଭାଇସରୁ ଅଧିକ ଲାଭ ପାଆନ୍ତୁ}}</string>
+     <string name="setup_wizard_title">Android ସେଟ୍‍ଅପ୍‌</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android ଆଖପାଖର ଗତିବିଧି ଚିହ୍ନଟ କରିବା ପାଇଁ Motion Sense ବ୍ୟବହାର କରିଥାଏ। ଏହା ଆପଣଙ୍କର କ୍ୟାମେରା, ମାଇକ୍ କିମ୍ବା ଲୋକେସନ୍ ବ୍ୟବହାର କରେ ନାହିଁ।</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{ଆପଣଙ୍କ Androidକୁ ସ୍ୱାଗତ}TABLET{ଆପଣଙ୍କ Android ଟାବଲେଟକୁ ସ୍ୱାଗତ}other{ଆପଣଙ୍କ ଡିଭାଇସକୁ ସ୍ୱାଗତ}}</string>
+</resources>

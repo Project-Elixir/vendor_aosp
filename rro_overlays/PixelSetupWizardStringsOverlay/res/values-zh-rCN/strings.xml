@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android 会使用 Motion Sense 功能来检测附近的动静，而不会使用您的相机、麦克风或位置信息。</string>
+     <string name="bc_welcome_message">欢迎使用 Android</string>
+     <string name="deferred_setup_wizard_title">完成 Android 设置</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{自定义 Android 设备}TABLET{自定义 Android 平板电脑}other{自定义您的设备}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{充分利用 Android 设备}TABLET{充分利用 Android 平板电脑}other{充分利用您的设备}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}，充分利用 Android 设备吧}TABLET{{0}，充分利用 Android 平板电脑吧}other{{0}，充分利用您的设备吧}}</string>
+     <string name="setup_wizard_title">Android 设置向导</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android 会使用 Motion Sense 功能来检测附近的动静，而不会使用您的相机、麦克风或位置信息。</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{欢迎使用 Android}TABLET{欢迎使用 Android 平板电脑}other{欢迎使用您的设备}}</string>
+</resources>

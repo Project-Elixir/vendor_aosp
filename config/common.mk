@@ -152,7 +152,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.theme=glif_v3_light \
     setupwizard.feature.skip_button_use_mobile_data.carrier1839=true \
     setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false \
-    setupwizard.feature.show_pixel_tos=false \
     setupwizard.feature.show_support_link_in_deferred_setup=false \
     setupwizard.feature.day_night_mode_enabled=true \
     setupwizard.feature.portal_notification=true
@@ -182,10 +181,6 @@ PRODUCT_PACKAGES += \
 	libtextclassifier_annotator_universal_model \
 	libtextclassifier_actions_suggestions_universal_model \
 	libtextclassifier_lang_id_model
-
-# Use gestures by default
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
 
 # IORap app launch prefetching using Perfetto traces and madvise
 PRODUCT_PRODUCT_PROPERTIES += \
@@ -220,6 +215,24 @@ $(call inherit-product, vendor/aosp/config/fonts.mk)
 
 # GApps
 $(call inherit-product, vendor/gms/gms_mini.mk)
+
+# GMS properties
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.opa.eligible_device=true \
+    ro.setupwizard.rotation_locked=true \
+    setupwizard.theme=glif_v3_light
+
+# Pixel properties
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay \
+    ro.com.google.ime.kb_pad_port_b=10 \
+    ro.com.google.ime.theme_id=5 \
+    ro.setupwizard.enterprise_mode=1 \
+    ro.setupwizard.esim_cid_ignore=00000001 \
+    setupwizard.feature.baseline_setupwizard_enabled=true \
+    setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false \
+    setupwizard.feature.show_pixel_tos=true \
+    setupwizard.feature.skip_button_use_mobile_data.carrier1839=true \
 
 # OTA
 $(call inherit-product, vendor/aosp/config/ota.mk)

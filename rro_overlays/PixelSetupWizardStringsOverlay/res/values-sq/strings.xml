@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android përdor Motion Sense për të zbuluar lëvizjet në afërsi. Ai nuk përdor kamerën, mikrofonin apo vendndodhjen tënde.</string>
+     <string name="bc_welcome_message">Mirë se erdhe në pajisjen tënde Android</string>
+     <string name="deferred_setup_wizard_title">Përfundo konfigurimin e Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Personalizo Android}TABLET{Personalizo tabletin Android}other{Personalizo pajisjen}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Përfito sa më shumë nga Android}TABLET{Përfito sa më shumë nga tableti Android}other{Përfito sa më shumë nga pajisja jote}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, përfito sa më shumë nga Android}TABLET{{0}, përfito sa më shumë nga tableti Android}other{{0}, përfito sa më shumë nga pajisja jote}}</string>
+     <string name="setup_wizard_title">Konfigurimi i Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android përdor Motion Sense për të zbuluar lëvizjet në afërsi. Ai nuk përdor kamerën, mikrofonin apo vendndodhjen tënde.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Mirë se erdhe në pajisjen tënde Android}TABLET{Mirë se erdhe në tabletin tënd Android}other{Mirë se vjen në pajisjen tënde}}</string>
+</resources>

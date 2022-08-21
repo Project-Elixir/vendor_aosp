@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android သည် အနီးရှိ လှုပ်ရှားမှုများကို သိရှိနိုင်ရန် Motion Sense ကို အသုံးပြုသည်။ ၎င်းက သင့်ကင်မရာ၊ မိုက် သို့မဟုတ် တည်နေရာကို မသုံးပါ။</string>
+     <string name="bc_welcome_message">သင်၏ Android က ကြိုဆိုပါသည်</string>
+     <string name="deferred_setup_wizard_title">Android ကို စနစ်ထည့်သွင်းပြီးပါပြီ</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Android ကို စိတ်ကြိုက်ပြင်ပါ}TABLET{သင်၏ Android တက်ဘလက်ကို စိတ်ကြိုက်ပြင်ပါ}other{သင်၏စက်ကို စိတ်ကြိုက်လုပ်ပါ}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{သင်၏ Android ကို အကောင်းဆုံး အသုံးချပါ}TABLET{Android တက်ဘလက်ကို အကောင်းဆုံး အသုံးချပါ}other{သင့်စက်ကို အကောင်းဆုံး အသုံးချပါ}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}၊ သင်၏ Android ကို အကောင်းဆုံး အသုံးချပါ}TABLET{{0}၊ သင်၏ Android တက်ဘလက်ကို အကောင်းဆုံး အသုံးချပါ}other{{0}၊ သင်၏စက်ကို အကောင်းဆုံး အသုံးချပါ}}</string>
+     <string name="setup_wizard_title">Android စနစ်ထည့်သွင်းမှု</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android သည် အနီးရှိ လှုပ်ရှားမှုများကို သိရှိနိုင်ရန် Motion Sense ကို အသုံးပြုသည်။ ၎င်းက သင့်ကင်မရာ၊ မိုက် သို့မဟုတ် တည်နေရာကို မသုံးပါ။</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{သင်၏ Android က ကြိုဆိုပါသည်}TABLET{သင်၏ Android တက်ဘလက်က ကြိုဆိုပါသည်}other{သင်၏စက်က ကြိုဆိုပါသည်}}</string>
+</resources>

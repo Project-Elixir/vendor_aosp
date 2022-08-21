@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android ले वरपरको चाल पहिचान गर्न Motion Sense सम्बन्धी सुविधा प्रयोग गर्छ। यसले तपाईंको क्यामेरा, माइक वा स्थान प्रयोग गर्दैन।</string>
+     <string name="bc_welcome_message">Android मा स्वागत छ</string>
+     <string name="deferred_setup_wizard_title">Android सेटअप गर्ने कार्य पूरा गर्नुहोस्</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{आफ्नो Android कस्टमाइज गर्नुहोस्}TABLET{आफ्नो Android ट्याब्लेट कस्टमाइज गर्नुहोस्}other{आफ्नो डिभाइस कस्टमाइज गर्नुहोस्}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{आफ्नो Android बाट बढीभन्दा बढी फाइदा लिनुहोस्}TABLET{आफ्नो Android ट्याब्लेटबाट बढीभन्दा बढी फाइदा लिनुहोस्}other{आफ्नो डिभाइसबाट बढीभन्दा बढी फाइदा लिनुहोस्}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, आफ्नो Android बाट बढीभन्दा बढी फाइदा लिनुहोस्}TABLET{{0}, आफ्नो Android ट्याब्लेटबाट बढीभन्दा बढी फाइदा लिनुहोस्}other{{0}, आफ्नो डिभाइसबाट बढीभन्दा बढी फाइदा लिनुहोस्}}</string>
+     <string name="setup_wizard_title">Android को सेटअप</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android ले वरपरको चाल पहिचान गर्न Motion Sense सम्बन्धी सुविधा प्रयोग गर्छ। यसले तपाईंको क्यामेरा, माइक वा स्थान प्रयोग गर्दैन।</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{तपाईंको Android मा स्वागत छ}TABLET{तपाईंको Android ट्याब्लेटमा स्वागत छ}other{तपाईंको डिभाइसमा मा स्वागत छ}}</string>
+</resources>

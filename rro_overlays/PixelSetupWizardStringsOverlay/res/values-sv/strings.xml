@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android identifierar rörelser i närheten med hjälp av Motion Sense. Din kamera, mikrofon och plats används inte.</string>
+     <string name="bc_welcome_message">Välkommen till Android</string>
+     <string name="deferred_setup_wizard_title">Slutför konfigurationen av Android</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Anpassa Android}TABLET{Anpassa Android Tablet}other{Anpassa enheten}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Få ut mesta möjliga av Android}TABLET{Få ut mesta möjliga av Android Tablet}other{Få ut mesta möjliga av enheten}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{Få ut mesta möjliga av Android, {0}}TABLET{Få ut mesta möjliga av Android Tablet, {0}}other{Få ut mesta möjliga av enheten, {0}}}</string>
+     <string name="setup_wizard_title">Konfiguration av Android</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android identifierar rörelser i närheten med hjälp av Motion Sense. Din kamera, mikrofon och plats används inte.</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Välkommen till Android}TABLET{Välkommen till Android Tablet}other{Välkommen till din enhet}}</string>
+</resources>

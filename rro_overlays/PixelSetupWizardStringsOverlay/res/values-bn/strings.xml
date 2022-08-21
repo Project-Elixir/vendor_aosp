@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="air_gestures_opt_in_info_text">Android আশেপাশের গতিবিধি শনাক্ত করতে Motion Sense ব্যবহার করে। এটি ক্যামেরা, মাইক বা লোকেশন ব্যবহার করে না।</string>
+     <string name="bc_welcome_message">Android-এ আপনাকে স্বাগত</string>
+     <string name="deferred_setup_wizard_title">Android সেট-আপ করা শেষ করুন</string>
+     <string name="device_name">Android</string>
+     <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{আপনার Android কাস্টমাইজ করুন}TABLET{আপনার Android ট্যাবলেট কাস্টমাইজ করুন}other{আপনার ডিভাইস কাস্টমাইজ করুন}}</string>
+     <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{আপনার Android থেকে সবচেয়ে বেশি সুবিধা পান}TABLET{আপনার Android ট্যাবলেট থেকে সবচেয়ে বেশি সুবিধা পান}other{আপনার ডিভাইস থেকে সবচেয়ে বেশি সুবিধা পান}}</string>
+     <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, আপনার Android থেকে সবচেয়ে বেশি সুবিধা পান}TABLET{{0}, আপনার Android ট্যাবলেট থেকে সবচেয়ে বেশি সুবিধা পান}other{{0}, আপনার ডিভাইস থেকে সবচেয়ে বেশি সুবিধা পান}}</string>
+     <string name="setup_wizard_title">Android সেট-আপ</string>
+     <string name="smart_always_on_display_opt_in_info_text">Android আশেপাশের গতিবিধি শনাক্ত করতে Motion Sense ব্যবহার করে। এটি ক্যামেরা, মাইক বা লোকেশন ব্যবহার করে না।</string>
+     <string name="welcome_message">{DEVICE_TYPE,select, PHONE{Android-এ আপনাকে স্বাগত}TABLET{Android ট্যাবলেটে আপনাকে স্বাগত}other{ডিভাইসে আপনাকে স্বাগত}}</string>
+</resources>
