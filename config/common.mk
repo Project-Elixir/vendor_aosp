@@ -214,7 +214,7 @@ $(call inherit-product, vendor/aosp/config/bootanimation.mk)
 $(call inherit-product, vendor/aosp/config/fonts.mk)
 
 # GApps
-$(call inherit-product, vendor/gms/gms_mini.mk)
+$(call inherit-product, vendor/gms/gms_full.mk)
 
 # GMS properties
 PRODUCT_PRODUCT_PROPERTIES += \
