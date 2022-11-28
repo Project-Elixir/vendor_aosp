@@ -81,6 +81,12 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
 
+# Apps
+ifeq ($(TARGET_APERTURE_CAM),true)
+PRODUCT_PACKAGES += \
+    Aperture
+endif
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.ntfs \
