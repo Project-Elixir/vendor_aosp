@@ -2,3 +2,9 @@ on post-fs-data
     # Create an additional OTA package directory that unlike /data/ota_package
     # will not be touched by GmsCore.
     mkdir /data/system_updates 0770 system cache encryption=None
+    start remove-cache
+
+service remove-cache /system/bin/rm -rf /data/system/package_cache
+    user system
+    group system
+    oneshot
