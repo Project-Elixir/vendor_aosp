@@ -38,6 +38,7 @@ SOONG_CONFIG_customGlobalVars += \
     include_miui_camera \
     uses_oppo_camera \
     gralloc_handle_has_custom_content_md_reserved_size \
+    bootloader_message_offset \
     gralloc_handle_has_reserved_size \
     needs_camera_boottime \
     target_init_vendor_lib \
@@ -92,6 +93,7 @@ SOONG_CONFIG_customGlobalVars_gralloc_handle_has_custom_content_md_reserved_size
 SOONG_CONFIG_customGlobalVars_gralloc_handle_has_ubwcp_format := $(TARGET_GRALLOC_HANDLE_HAS_UBWCP_FORMAT)
 
 # Set default values
+BOOTLOADER_MESSAGE_OFFSET ?= 0
 TARGET_ADDITIONAL_GRALLOC_10_USAGE_BITS ?= 0
 TARGET_CAMERA_OVERRIDE_FORMAT_FROM_RESERVED ?= false
 TARGET_GRALLOC_HANDLE_HAS_CUSTOM_CONTENT_MD_RESERVED_SIZE ?= false
@@ -107,6 +109,7 @@ TARGET_GRALLOC_HANDLE_HAS_UBWCP_FORMAT ?= false
 # Soong value variables
 SOONG_CONFIG_customGlobalVars_aapt_version_code := $(shell date -u +%Y%m%d)
 SOONG_CONFIG_customGlobalVars_additional_gralloc_10_usage_bits := $(TARGET_ADDITIONAL_GRALLOC_10_USAGE_BITS)
+SOONG_CONFIG_customGlobalVars_bootloader_message_offset := $(BOOTLOADER_MESSAGE_OFFSET)
 SOONG_CONFIG_customGlobalVars_target_init_vendor_lib := $(TARGET_INIT_VENDOR_LIB)
 SOONG_CONFIG_customGlobalVars_has_legacy_camera_hal1 := $(TARGET_HAS_LEGACY_CAMERA_HAL1)
 SOONG_CONFIG_customGlobalVars_target_ld_shim_libs := $(subst $(space),:,$(TARGET_LD_SHIM_LIBS))
