@@ -51,7 +51,8 @@ SOONG_CONFIG_customGlobalVars += \
     uses_egl_display_array \
     needs_oplus_tag \
     uses_oplus_camera \
-    uses_nothing_camera
+    uses_nothing_camera \
+    include_miui_camera
 
 SOONG_CONFIG_NAMESPACES += customNvidiaVars
 SOONG_CONFIG_customNvidiaVars += \
@@ -91,6 +92,7 @@ SOONG_CONFIG_customGlobalVars_gralloc_handle_has_reserved_size := $(TARGET_GRALL
 SOONG_CONFIG_customGlobalVars_gralloc_handle_has_custom_content_md_reserved_size := $(TARGET_GRALLOC_HANDLE_HAS_CUSTOM_CONTENT_MD_RESERVED_SIZE)
 SOONG_CONFIG_customGlobalVars_gralloc_handle_has_ubwcp_format := $(TARGET_GRALLOC_HANDLE_HAS_UBWCP_FORMAT)
 SOONG_CONFIG_customGlobalVars_camera_override_format_from_reserved := $(TARGET_CAMERA_OVERRIDE_FORMAT_FROM_RESERVED)
+SOONG_CONFIG_customGlobalVars_include_miui_camera := $(TARGET_INCLUDES_MIUI_CAMERA)
 
 # Set default values
 BOOTLOADER_MESSAGE_OFFSET ?= 0
