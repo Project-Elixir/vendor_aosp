@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.systemui.combined.signal"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <application android:label="Combined Signal Icon" android:hasCode="false"/>
+        <overlay android:category="android.systemui.custom" 
+            android:isStatic="false" 
+            android:priority="69" 
+            android:targetPackage="com.android.systemui"/>
+</manifest>

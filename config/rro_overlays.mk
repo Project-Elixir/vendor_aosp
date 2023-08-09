@@ -27,3 +27,4 @@ PRODUCT_PACKAGES += \
     SystemUIGoogleOverlay \
     StorageManagerGoogleOverlay \
     FlipendoOverlay
+    CombinedSignalIconOverlay
