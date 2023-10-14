@@ -200,4 +200,5 @@
         <!-- Pixel Launcher -->
         <item>launcher/ENABLE_SMARTSPACE_ENHANCED=true</item>
     </string-array>
+
 </resources>
