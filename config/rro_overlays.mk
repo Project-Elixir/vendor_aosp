@@ -2,6 +2,9 @@
 PRODUCT_PACKAGES += \
     DMServiceOverlay \
     FlipendoOverlay \
+    AccessibilityMenuOverlay \
+    CellBroadcastReceiverOverlay \
+    MediaProviderOverlay \
     GoogleConfigOverlay \
     GoogleDeviceLockControllerOverlay \
     GoogleHealthConnectOverlay \
