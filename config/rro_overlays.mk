@@ -13,7 +13,10 @@ PRODUCT_PACKAGES += \
     PixelConfigOverlayCommon \
     PixelDocumentsUIGoogleOverlay \
     SettingsGoogleOverlayPixel2022 \
-    SystemUIGXOverlay
+    SystemUIGXOverlay \
+    AccessibilityMenuOverlay \
+    CellBroadcastReceiverOverlay \
+    MediaProviderOverlay
 
 ifeq ($(TARGET_IS_PIXEL), true)
 PRODUCT_PACKAGES += \
