@@ -214,12 +214,12 @@ $(call inherit-product, vendor/aosp/config/bootanimation.mk)
 $(call inherit-product, vendor/aosp/config/fonts.mk)
 
 # Inherit from GMS product config
-ifeq ($(TARGET_USES_MINI_GAPPS),true)
-$(call inherit-product, vendor/gms/gms_mini.mk)
+ifeq ($(TARGET_USES_FULL_GAPPS),true)
+$(call inherit-product, vendor/gms/gms_full.mk)
 else ifeq ($(TARGET_USES_PICO_GAPPS),true)
 $(call inherit-product, vendor/gms/gms_pico.mk)
 else
-$(call inherit-product, vendor/gms/gms_full.mk)
+$(call inherit-product, vendor/gms/gms_mini.mk)
 endif
 
 # OTA
