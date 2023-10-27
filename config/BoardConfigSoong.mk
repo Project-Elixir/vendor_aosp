@@ -30,6 +30,7 @@ SOONG_CONFIG_customGlobalVars += \
     disable_bluetooth_le_set_host_feature \
     camera_needs_client_info \
     camera_needs_client_info_lib \
+    camera_uses_newer_hidl_override_format \
     target_alternative_futex_waiters \
     gralloc_handle_has_custom_content_md_reserved_size \
     gralloc_handle_has_reserved_size \
@@ -58,6 +59,7 @@ SOONG_CONFIG_customQcomVars += \
 endif
 
 # Soong bool variables
+SOONG_CONFIG_customGlobalVars_camera_uses_newer_hidl_override_format := $(TARGET_CAMERA_USES_NEWER_HIDL_OVERRIDE_FORMAT)
 SOONG_CONFIG_customGlobalVars_camera_needs_client_info := $(TARGET_CAMERA_NEEDS_CLIENT_INFO)
 SOONG_CONFIG_customGlobalVars_camera_needs_client_info_lib := $(TARGET_CAMERA_NEEDS_CLIENT_INFO_LIB)
 SOONG_CONFIG_customGlobalVars_disable_bluetooth_le_read_buffer_size_v2 := $(TARGET_DISABLE_BLUETOOTH_LE_READ_BUFFER_SIZE_V2)
@@ -75,6 +77,7 @@ SOONG_CONFIG_customGlobalVars_gralloc_handle_has_custom_content_md_reserved_size
 
 # Set default values
 TARGET_ADDITIONAL_GRALLOC_10_USAGE_BITS ?= 0
+TARGET_CAMERA_USES_NEWER_HIDL_OVERRIDE_FORMAT ?= false
 TARGET_GRALLOC_HANDLE_HAS_CUSTOM_CONTENT_MD_RESERVED_SIZE ?= false
 TARGET_GRALLOC_HANDLE_HAS_RESERVED_SIZE ?= false
 TARGET_INIT_VENDOR_LIB ?= vendor_init
