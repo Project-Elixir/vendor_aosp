@@ -219,11 +219,7 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/qcom/opensource/commonsys/display \
     vendor/qcom/opensource/commonsys-intf/display
 
-ifneq (,$(filter 5.10 5.15, $(TARGET_KERNEL_VERSION)))
-TARGET_USE_DISPLAY_VENDOR_FREEZER := true
-endif
-
-ifneq ($(TARGET_USE_DISPLAY_VENDOR_FREEZER),true)
+ifeq ($(filter $(UM_5_10_FAMILY) $(UM_5_15_FAMILY),$(TARGET_BOARD_PLATFORM)),)
 PRODUCT_SOONG_NAMESPACES += \
     vendor/qcom/opensource/display
 endif
