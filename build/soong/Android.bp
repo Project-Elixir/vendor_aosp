@@ -135,6 +135,23 @@ camera_needs_client_info_lib_oplus {
 }
 
 soong_config_module_type {
+    name: "camera_override_format_from_reserved",
+    module_type: "cc_defaults",
+    config_namespace: "customGlobalVars",
+    bool_variables: ["camera_override_format_from_reserved"],
+    properties: ["cppflags"],
+}
+
+camera_override_format_from_reserved {
+    name: "camera_override_format_from_reserved_defaults",
+    soong_config_variables: {
+        camera_override_format_from_reserved: {
+            cppflags: ["-DTARGET_CAMERA_OVERRIDE_FORMAT_FROM_RESERVED"],
+        },
+    },
+}
+
+soong_config_module_type {
     name: "gralloc_10_usage_bits",
     module_type: "cc_defaults",
     config_namespace: "customGlobalVars",
@@ -547,6 +564,22 @@ uses_oppo_camera {
     soong_config_variables: {
         uses_oppo_camera: {
             cppflags: ["-DUSES_OPPO_CAMERA"],
+        },
+    },
+}
+
+soong_config_module_type {
+    name: "include_miui_camera",
+    module_type: "cc_defaults",
+    config_namespace: "customGlobalVars",
+    bool_variables: ["include_miui_camera"],
+    properties: ["cppflags"],
+}
+include_miui_camera {
+    name: "includes_miui_camera",
+    soong_config_variables: {
+        include_miui_camera: {
+            cppflags: ["-DINCLUDES_MIUI_CAMERA"],
         },
     },
 }
